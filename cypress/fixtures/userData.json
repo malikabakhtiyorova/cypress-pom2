@@ -1,0 +1,7 @@
+{
+  "username": "userinvalid",
+  "password": "invalidpwd",
+  "username_OK": "username",
+  "password_OK": "password",
+  "body": "Fixtures are a great way to mock data for responses to routes"
+}
